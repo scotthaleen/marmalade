@@ -11,7 +11,7 @@ docker run --rm -p 27017-27019:27017-27019 -p 3000:3000 --name marmalade scottha
 [localhost:3000](localhost:3000)
 
 
-![Marmalade](docs/screenshot.png)
+![Marmalade](doc/screenshot.png)
 
 
 # Original README
