@@ -1,4 +1,4 @@
-
+## Docker
 
 Got this working in a docker container with `node v0.10.48`
 
@@ -8,13 +8,14 @@ Got this working in a docker container with `node v0.10.48`
 docker run --rm -p 27017-27019:27017-27019 -p 3000:3000 --name marmalade scotthaleen/marmalade:0.0.4
 ```
 
-[localhost:3000](localhost:3000)
+Navigate: [localhost:3000](http://localhost:3000)
 
 
 ![Marmalade](doc/screenshot.png)
 
 
-# Original README
+## Original README
+
 
 marmalade(7) -- spreadable elisp
 ================================
